@@ -5,6 +5,7 @@ public class first {
 		System.out.println("hi");
 		System.out.println("new");
 		System.out.println("Total");
+		System.out.println("king");
 	}
 
 }
